@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.26.4
+
+### Patch Changes
+
+- Add external fonts, new translations, duplicate page fix.
+- Updated dependencies
+  - @tldraw/core@1.20.3
+
+## 1.26.3
+
+### Patch Changes
+
+- Fix text placement.
+- Updated dependencies
+  - @tldraw/core@1.20.2
+
+## 1.26.2
+
+### Patch Changes
+
+- Fix types in core.
+- Updated dependencies
+  - @tldraw/core@1.20.1
+
+## 1.26.1
+
+### Patch Changes
+
+- Fixes blurring text inputs in multiplayer.
+
 ## 1.26.0
 
 ### Minor Changes

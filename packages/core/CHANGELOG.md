@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.20.3
+
+### Patch Changes
+
+- Add external fonts, new translations, duplicate page fix.
+
+## 1.20.2
+
+### Patch Changes
+
+- Fix text placement.
+
+## 1.20.1
+
+### Patch Changes
+
+- Fix types in core.
+
 ## 1.20.0
 
 ### Minor Changes
