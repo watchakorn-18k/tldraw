@@ -1,5 +1,65 @@
 ## 1.2.4
 
+## 1.28.0
+
+### Minor Changes
+
+- - Fixes copy as PNG
+  - Fixes a bug with copy and paste
+  - Fixes a bug on iPad while using pencil
+  - Fixes a bug with the style menus
+  - Fixes a bug with image export
+  - Updates translations
+
+## 1.27.0
+
+### Minor Changes
+
+- - Adds Galacian language translation
+  - Adds Farsi (Persian) language translation
+  - Updates German translation
+  - Updates Norwegian translation
+  - Updates Japanese translation
+  - Updates Spanish translation
+  - Improves aria-labels
+  - Fixes a bug with multiplayer menu
+  - Fixes a bug with image exports
+
+## 1.26.1
+
+### Patch Changes
+
+- - Adds Galacian language translation
+  - Adds Farsi (Persian) language translation
+  - Updates German translation
+  - Updates Norwegian translation
+  - Updates Japanese translation
+  - Updates Spanish translation
+  - Improves aria-labels
+  - Fixes a bug with multiplayer menu
+  - Fixes a bug with image exports
+- 12c0b2ac: - Adds Galacian language translation
+  - Adds Farsi (Persian) language translation
+  - Updates Norwegian translation
+  - Updates Japanese translation
+  - Updates Spanish translation
+  - Improves aria-labels
+  - Fixes a bug with multiplayer menu
+  - Fixes a bug with image exports
+
+## 1.26.0
+
+### Minor Changes
+
+- - Adds missing Arabic translations for dialogs. @abedshamia
+  - Updates core-example. @brydenfogelman
+  - Updates Polish translations. @adan2013
+  - Adds missing Aria-Labels. @KDSBrowne
+  - Improves Japanese translation. @yashkumarbarot
+  - Fixes height and width in app.viewport. @hiroshisuga
+  - Improves labels on StlyeMenu @proke03
+  - Adds missing tooltips to undo / redo buttons. @proke03
+
 ## 1.25.2
 
 ### Patch Changes
